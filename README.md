@@ -44,7 +44,3 @@ weighted avg       0.99      0.99      0.99      2053
 > Este proyecto demostró cómo aplicar un flujo de trabajo completo de análisis de datos deportivos en Python, desde la carga y limpieza eficiente con Polars, visualización con Seaborn y modelado predictivo con Scikit-learn.
 >
 > **El modelo predice con alta precisión, pero se recomienda usar etiquetas reales (goles anotados por temporada) para validar su utilidad en un contexto real.**
-
----
-
-¿Te gustaría que te lo exporte como un informe en PDF o Word? ¿O prefieres subirlo como notebook público en Kaggle o GitHub?
